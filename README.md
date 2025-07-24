@@ -118,7 +118,7 @@ curl "http://localhost:8080/weather?cep=01001000"
 - `422` - CEP inválido
 - `404` - CEP não encontrado ou erro na consulta de clima
 
-## Testes Automatizados no Free Tier
+## Deploy no Google Cloud Run no Free Tier
 
 Este projeto inclui configurações para executar testes automatizados gratuitamente usando GitHub Actions e Google Cloud Run.
 
