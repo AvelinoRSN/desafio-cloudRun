@@ -1,0 +1,18 @@
+mode: set
+desafio-cloudRun/main.go:40.13,44.2 3 0
+desafio-cloudRun/main.go:46.67,49.74 2 1
+desafio-cloudRun/main.go:49.74,53.3 3 1
+desafio-cloudRun/main.go:55.2,59.16 4 1
+desafio-cloudRun/main.go:59.16,63.3 3 0
+desafio-cloudRun/main.go:64.2,72.54 6 1
+desafio-cloudRun/main.go:72.54,76.3 3 0
+desafio-cloudRun/main.go:79.2,79.17 1 1
+desafio-cloudRun/main.go:79.17,83.3 3 1
+desafio-cloudRun/main.go:86.2,86.48 1 1
+desafio-cloudRun/main.go:86.48,90.3 3 0
+desafio-cloudRun/main.go:92.2,97.49 5 1
+desafio-cloudRun/main.go:97.49,100.3 2 0
+desafio-cloudRun/main.go:101.2,104.79 3 1
+desafio-cloudRun/main.go:104.79,107.3 2 0
+desafio-cloudRun/main.go:109.2,118.4 5 1
+desafio-cloudRun/main.go:121.35,123.2 1 1

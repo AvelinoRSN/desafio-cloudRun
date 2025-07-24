@@ -1,0 +1,20 @@
+# Arquivos do Google Cloud SDK
+google-cloud-sdk/
+google-cloud-sdk-*.zip
+
+# Arquivos do Git
+.git/
+.gitignore
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos de desenvolvimento
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db 
